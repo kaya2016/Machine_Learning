@@ -6,6 +6,7 @@ This project uses two methods to control the inverted pendulum:
 1. Reinforcment Learning
 2. Model Predictive Controller  (MPC)
 
+The force analysis and system equations can be found in the file: 
 ### References:
 1. https://gym.openai.com/envs/CartPole-v0
 2. Adaptive und Prädiktive Regelung, Vorlesungsskript, Universität Kassel https://www.uni-kassel.de/eecs/en/fachgebiete/control/teaching/apr.html  
